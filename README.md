@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/4220d927f3ba9b4d313822628855dd0a9f5453d4f6bb0474097aca312d475505/68747470733a2f2f692e696d6775722e636f6d2f354f5164457a722e706e67)
 <h1 align="center">Hi 👋, I'm Akash Bachhav</h1>
 <h3 align="center">A passionate Full-Stack Web Developer & Cloud Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on [Project Management System](https://github.com/theskyb11/Minor)
 
